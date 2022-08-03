@@ -1,0 +1,29 @@
+index	name	color
+1	Lateral Ventricle Left	#781286
+2	Lateral Ventricle Right	#781286
+3	CSF	#3c3c3c
+4	Third Ventricle	#ccb68e
+5	Fourth Ventricle	#2acca4
+6	5th Ventricle	#78be96
+7	Nucleus Accumbens Left	#ffa500
+8	Nucleus Accumbens Right	#ffa500
+9	Caudate Left	#7abadc
+10	Caudate Right	#7abadc
+11	Putamen Left	#ec0db0
+12	Putamen Right	#ec0db0
+13	Globus Pallidus Left	#0c30ff
+14	Globus Pallidus Right	#0c30ff
+15	Brainstem	#779fb0
+16	Thalamus Left	#00760e
+17	Thalamus Right	#00760e
+18	Inferior Horn of the Lateral Ventricle Left	#c43afa
+19	Inferior Horn of the Lateral Ventricle Right	#c43afa
+20	Hippocampal Formation Left	#dcd814
+21	Hippocampal Formation Right	#dcd814
+22	Amygdala Left	#67ffff
+23	Amygdala Right	#67ffff
+24	Optic Chiasm	#eaa91e
+25	VDC Anterior Left	#b13e40
+26	VDC Anterior Right	#b13e40
+27	VDC Posterior Left	#f1a1a2
+28	VDC Posterior Right	#f1a1a2
