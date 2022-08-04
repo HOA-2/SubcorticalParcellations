@@ -1,4 +1,4 @@
-# Harvard-Oxford Atlas 2.0: Subcortical Segmentations
+# Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
 ## Introduction
 
@@ -8,7 +8,7 @@ MR data sets from the Human Connectome Project (HCP) parcellated into
 392 gray and white matter PUs using structural MRI and 189 white
 matter fascicles using diffusion MRI. Manual parcellation will be
 performed based on a developed neuroanatomical ontology using a
-principled and well-defined segmentation methodology.
+principled and well-defined parcellation methodology.
 
 ## Dataset
 
@@ -27,7 +27,7 @@ by the [Center for Morphometric Analysis](https://cma.mgh.harvard.edu) (CMA)
 at Massachusetts General Hospital and Brigham and Women's Hospital in Boston.
 
 ## Source files
-The segmentation files are derived from 3D Slicer MRB file. Unfortunately, becaue
+The parcellation files are derived from 3D Slicer MRB file. Unfortunately, becaue
 of HCP data use agreements covering the underlying datasets, we cannot publicly
 post the MRB files that contain that data. They are available by request.
 
