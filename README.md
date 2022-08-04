@@ -1,1 +1,1 @@
-.git/annex/objects/zf/q8/MD5E-s461--af17f4d85299f0ac9cf9451f6fdf5308.md/MD5E-s461--af17f4d85299f0ac9cf9451f6fdf5308.md
+/annex/objects/MD5E-s461--af17f4d85299f0ac9cf9451f6fdf5308.md
