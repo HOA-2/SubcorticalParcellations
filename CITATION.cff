@@ -1,1 +1,87 @@
-/annex/objects/MD5E-s2712--bbea26977c9d6bb8b37166c05bc7b2c4.cff
+cff-version: 1.2.0
+title: >-
+  Harvard-Oxford Atlas 2.0 Subcortical segmentation of 
+  Human Connectome Data (HCP) subjects
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: R. Jarrett
+    family-names: Rushmore
+    email: rushmore@bu.edu
+  - given-names: Kyle
+    family-names: Sutherland
+    email: 1krs1@queensu.ca
+  - given-names: Holly
+    family-names: Carrington
+    email: hwc7qm@virginia.edu
+  - given-names: Justine
+    family-names: Chen
+    email: jtinechen@gmail.com
+  - given-names: Michael
+    family-names: Halle
+    email: mhalle@bwh.harvard.edu
+  - given-names: Andras
+    family-names: Lasso
+    email: lasso@queensu.ca
+  - given-names: George
+    family-names: Papadimitriou
+    email: georgep@nmr.mgh.harvard.edu
+  - given-names: Nick
+    family-names: Prunier
+    email: nprunier97@gmail.com
+  - given-names: Elizabeth
+    family-names: Rizzoni
+    email: earizzoni@gmail.com
+  - given-names: Brynn
+    family-names: Vessey
+    email: brynnvessey@gmail.com
+  - given-names: Peter
+    family-names: Wilson-Braun
+    email: peterwb22@gmail.com
+  - given-names: Yogesh
+    family-names: Rathi
+    email: yogesh@bwh.harvard.edu
+  - given-names: Marek
+    family-names: Kubicki
+    email: kubicki@bwh.harvard.edu
+  - given-names: Sylvain
+    family-names: Bouix
+    email: sylvain@bwh.harvard.edu
+  - given-names: Edward
+    family-names: Yeterian
+    email: ehyeteri@colbu.edu
+  - given-names: Nikos
+    family-names: Makris
+    email: nikos@cma.mgh.harvard.edu
+  - {}
+url: 'https://cma.mgh.harvard.edu/'
+repository: 'https://github.com/HOA-2/SubcorticalSegmentations'
+abstract: >-
+  The PIs and co-investigators will develop and
+  disseminate state-of-the-art, high-resolution full
+  brain anatomical atlases, based on the manual
+  parcellation of 200 MRI images provided by the
+  Human Connectome Project. This atlas will be made
+  compatible with anatomical nomenclature, easily
+  portable to the majority of neuroscience tools and
+  software platforms, and editable, so other experts
+  can contribute their anatomical knowledge to the
+  tool. The availability of such an atlas will
+  greatly advance research in brain morphometry,
+  function and connectivity. 
+date-released: 2022-08-04
+references:
+  - type: grant
+    authors:
+      - given-names: Sylvain
+        family-names: Bouix
+      - given-names: Marek
+        family-names: Kubicki
+      - given-names: Nikos
+        family-names: Makris
+    title: "High Resolution, Comprehensive Atlases of the Human Brain Morphology"
+    number: "NIH NIMH 5R01MH112748-04"
+    url: https://reporter.nih.gov/search/QhVboFoXdUe_XiAriH9B5w/project-details/10053340
+
