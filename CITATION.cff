@@ -72,16 +72,3 @@ abstract: >-
   greatly advance research in brain morphometry,
   function and connectivity. 
 date-released: 2022-08-04
-references:
-  - type: grant
-    authors:
-      - given-names: Sylvain
-        family-names: Bouix
-      - given-names: Marek
-        family-names: Kubicki
-      - given-names: Nikos
-        family-names: Makris
-    title: "High Resolution, Comprehensive Atlases of the Human Brain Morphology"
-    number: "NIH NIMH 5R01MH112748-04"
-    url: https://reporter.nih.gov/search/QhVboFoXdUe_XiAriH9B5w/project-details/10053340
-
