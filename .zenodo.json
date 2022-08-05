@@ -1,7 +1,7 @@
 {
     "description": "Harvard-Oxford Atlas 2.0 Subcortical parcellations of Human Connectome Project (HCP) subjects", 
     "license": "other-open", 
-    "upload_type": "datset", 
+    "upload_type": "dataset", 
     "creators": [
         {"name": "Rushmore, R. Jarrett"}
         ,{ "name": "Sutherland, Kyle"}
