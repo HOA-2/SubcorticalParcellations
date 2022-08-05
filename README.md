@@ -1,4 +1,8 @@
+[![DOI](https://zenodo.org/badge/521466842.svg)](https://zenodo.org/badge/latestdoi/521466842)
+
+
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
+
 
 ## Introduction
 
