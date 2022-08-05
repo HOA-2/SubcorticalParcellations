@@ -1,0 +1,24 @@
+{
+    "description": "Harvard-Oxford Atlas 2.0 Subcortical parcellations of Human Connectome Project (HCP) subjects", 
+    "license": "other-open", 
+    "upload_type": "datset", 
+    "creators": [
+        {"name": "Rushmore, R. Jarrett"}
+        ,{ "name": "Sutherland, Kyle"}
+        ,{ "name": "Carrington, Holly"}
+        ,{ "name": "Chen, Justine"}
+        ,{ "name": "Halle, Michael"}
+        ,{ "name": "Lasso, Andras"}
+        ,{ "name": "Papadimitriou, George"}
+        ,{ "name": "Prunier, Nick" }
+        ,{ "name": "Rizzoni, Elizabeth"}
+        ,{ "name": "Vessey, Brynn"}
+        ,{ "name": "Wilson-Braun, Peter"}
+        ,{ "name": "Rathi, Yogesh"}
+        ,{ "name": "Kubicki, Marek"}
+        ,{ "name": "Bouix, Sylvain"}
+        ,{ "name": "Yeterian, Edward"}
+        ,{ "name": "Makris, Nikos"}
+    ], 
+    "access_right": "open"
+}
