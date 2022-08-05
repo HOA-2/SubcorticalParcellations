@@ -1,10 +1,6 @@
 cff-version: 1.2.0
-title: >-
-  Harvard-Oxford Atlas 2.0 Subcortical parcellation of 
-  Human Connectome Data (HCP) subjects
-message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
+title: "Harvard-Oxford Atlas 2.0 Subcortical parcellation of Human Connectome Data (HCP) subjects"
+message: "If you use this dataset, please cite it using the metadata from this file."
 type: dataset
 authors:
   - given-names: R. Jarrett
@@ -57,18 +53,5 @@ authors:
     email: nikos@cma.mgh.harvard.edu
   - {}
 url: 'https://cma.mgh.harvard.edu/'
-repository: 'https://github.com/HOA-2/SubcorticalPacellations'
-abstract: >-
-  The PIs and co-investigators will develop and
-  disseminate state-of-the-art, high-resolution full
-  brain anatomical atlases, based on the manual
-  parcellation of 200 MRI images provided by the
-  Human Connectome Project. This atlas will be made
-  compatible with anatomical nomenclature, easily
-  portable to the majority of neuroscience tools and
-  software platforms, and editable, so other experts
-  can contribute their anatomical knowledge to the
-  tool. The availability of such an atlas will
-  greatly advance research in brain morphometry,
-  function and connectivity. 
+repository: 'https://github.com/HOA-2/SubcorticalParcellations'
 date-released: 2022-08-04
