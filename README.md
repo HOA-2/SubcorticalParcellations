@@ -17,7 +17,7 @@ principled and well-defined parcellation methodology.
 
 ## Dataset
 
-This dataset consists of 50 manual parcelations of MRI datasets from
+This dataset consists of 50 manual parcellations of MRI datasets from
 The Human Connectome Project (HCP). Files in the nii directory are in 
 nifti format and GZIP compressed.
 
