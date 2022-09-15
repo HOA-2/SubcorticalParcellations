@@ -45,6 +45,6 @@ Avants, B. B., Tustison, N. J., Song, G., Cook, P. A., Klein, A., and Gee, J. C.
 
 Rushmore R.J., Sunderland, K., Carrington H., Chen J., Halle M., Lasso A.,
 Papadimitriou G., Prunier N., Rizzoni E., Vessey B., Wilson-Braun P., Rathi Y.,  Kubicki M., Bouix S., Yeterian E. and Makris N. (2022) Anatomically curated segmentation of human subcortical structures in high resolution magnetic resonance imaging: An open science approach.
-Front. Neuroanat. 16:894606. doi: 10.3389/fnana.2022.894606
+Front. Neuroanat. 16:894606. doi:10.3389/fnana.2022.894606
 
 Wang, H., Suh, J. W., Das, S. R., Pluta, J. B., Craige, C., and Yushkevich, P. A. (2013). Multi-Atlas Segmentation with Joint Label Fusion. IEEE Trans. Pattern Anal. Mach. Intell. 35, 611–623. doi: 10.1109/TPAMI.2012.143.
