@@ -59,6 +59,6 @@ https://raw.githubusercontent.com/Slicer/Slicer/main/License.txt
 
 ## Past version history
 
-v1.0.0: Initial release of the discrete segmentation of 50 subjects.
-v1.1.0: Initial release of the probability atlas for the subjects in v1.0.0.
-v1.1.1: Minor update of this README, no data files have changed.
+* v1.0.0: Initial release of the discrete segmentation of 50 subjects.
+* v1.1.0: Initial release of the probability atlas for the subjects in v1.0.0.
+* v1.1.1: Minor update of this README, no data files have changed.
