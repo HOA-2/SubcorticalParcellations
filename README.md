@@ -2,7 +2,7 @@
 
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
-## Release version: 1.0
+## Release version: 1.1.1
 
 ## Introduction
 
