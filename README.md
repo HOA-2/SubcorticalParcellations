@@ -2,7 +2,11 @@
 
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
-## Release version: 1.1.1
+## Release version: 2.0.0
+
+Version 2.0.0 increases the number of subjects for the discrete brain 
+segmentation to 100. The probablistic segmentation still includes only the 
+first 50 subjects; it will be updated in the next minor release.
 
 ## Introduction
 
@@ -17,7 +21,7 @@ principled and well-defined parcellation methodology.
 ## Dataset
 
 This dataset consists of 50 manual parcelations of MRI datasets from
-The Human Connectome Project (HCP). 
+The Human Connectome Project (HCP).
 
 Files in the `dseg` directory are discrete parcelations of the subject data. Image files are in nifti format and GZIP compressed. File numbers correspond to the HCP subject number from the HCP1200 dataset.
 
@@ -41,7 +45,7 @@ post the MRB files that contain that data. They are available by request.
 
 ## Citation
 
-Rushmore R.J., Sunderland, K., Carrington H., Chen J., Halle M., Lasso A., Papadimitriou G., Prunier N., Rizzoni E., Vessey B., Wilson-Braun P., Rathi Y.,  Kubicki M., Bouix S., Yeterian E. and Makris N. (2022) Anatomically curated segmentation of human subcortical structures in high resolution magnetic resonance imaging: An open science approach. Front. Neuroanat. 16:894606. doi:10.3389/fnana.2022.894606
+Rushmore R.J., Sunderland, K., Carrington H., Chen J., Halle M., Lasso A., Papadimitriou G., Prunier N., Rizzoni E., Vessey B., Wilson-Braun P., Rathi Y., Kubicki M., Bouix S., Yeterian E. and Makris N. (2022) Anatomically curated segmentation of human subcortical structures in high resolution magnetic resonance imaging: An open science approach. Front. Neuroanat. 16:894606. doi:10.3389/fnana.2022.894606
 
 ## Sponsorship
 
@@ -52,3 +56,9 @@ Rushmore R.J., Sunderland, K., Carrington H., Chen J., Halle M., Lasso A., Papad
 This data is licensed under the 3D Slicer license, part B.
 
 https://raw.githubusercontent.com/Slicer/Slicer/main/License.txt
+
+## Past version history
+
+v1.0.0: Initial release of the discrete segmentation of 50 subjects.
+v1.1.0: Initial release of the probability atlas for the subjects in v1.0.0.
+v1.1.1: Minor update of this README, no data files have changed.
