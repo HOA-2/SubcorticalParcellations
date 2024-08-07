@@ -2,7 +2,9 @@
 
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
-## Release version: 2.0.0
+## Release version: 2.0.1
+
+Version 2.0.1 corrects the mispelling of file 192540_dseg.nii.gz .
 
 Version 2.0.0 increases the number of subjects for the discrete brain 
 segmentation to 100. The probablistic segmentation still includes only the 
