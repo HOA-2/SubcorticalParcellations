@@ -1,5 +1,5 @@
-# Color table file C:/Users/rjrus/Dropbox/Subcortical Data/154734/154734_NP-label_ColorTable.ctbl
-# 29 values
+# Color table file 
+
 1 Lateral_Ventricle_Left 120 18 134 255
 2 Lateral_Ventricle_Right 120 18 134 255
 3 CSF 60 60 60 255
@@ -28,3 +28,7 @@
 26 VDC_Anterior_Right 177 62 64 255
 27 VDC_Posterior_Left 241 161 162 255
 28 VDC_Posterior_Right 241 161 162 255
+29 Cerebellar_Cortex_Left 220 148 34 255
+30 Cerebellar_Cortex_Right 220 148 34 255
+31 Cerebellar_White_Matter_Left 220 248 164 255
+32 Cerebellar_White_Matter_Right 220 248 164 255
