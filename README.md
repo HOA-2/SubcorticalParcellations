@@ -2,7 +2,9 @@
 
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
-## Release version: 2.1.0
+## Release version: 2.2.0
+
+Version 2.1.1 added the subcortical probablistic atlas corrsesponding to 2.1.0.
 
 Version 2.1.0 adds parcellation of the cerebellum, adding the following labels:
 * 29 Cerebellar_Cortex_Left
