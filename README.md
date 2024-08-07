@@ -2,7 +2,13 @@
 
 # Harvard-Oxford Atlas 2.0: Subcortical parcellations
 
-## Release version: 2.0.1
+## Release version: 2.1.0
+
+Version 2.1.0 adds parcellation of the cerebellum, adding the following labels:
+* 29 Cerebellar_Cortex_Left
+* 30 Cerebellar_Cortex_Right
+* 31 Cerebellar_White_Matter_Left
+* 32 Cerebellar_White_Matter_Right
 
 Version 2.0.1 corrects the mispelling of file 192540_dseg.nii.gz .
 
